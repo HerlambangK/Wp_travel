@@ -1,0 +1,24 @@
+#post-body-content,
+#postbox-container-1{
+    display:none;
+}
+#post-body{
+    margin-right: 0!important;
+}
+#elementskit-widget-builder-markup .inside {
+    margin-top: 0;
+    padding: 0;
+}
+
+.meta-box-sortables:first-child {
+    display: none;
+}
+.postbox {
+    border-width: 0;
+}
+.js .postbox > .handlediv {
+    display: none;
+}
+.postbox > h2 {
+    display: none;
+}
