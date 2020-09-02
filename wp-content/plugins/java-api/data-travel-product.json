@@ -1,0 +1,118 @@
+{
+    "data": [{
+        "id": 1,
+        "category_name": "Destination",
+        "category_slug": "destination",
+        "childs": [{
+            "id": 2,
+            "category_name": "International",
+            "category_slug": "international",
+            "category_image": "http:\/\/app.javatraveller.com\/uploads\/categories\/1598146507-vEMPGfr1Y99L.png",
+            "childs": [{
+                "id": 4,
+                "category_name": "Asia",
+                "category_slug": "asia",
+                "category_image": "http:\/\/app.javatraveller.com\/uploads\/categories\/1598146509-fEOwB3a3muuR.png",
+                "childs": []
+            }, {
+                "id": 5,
+                "category_name": "Europe",
+                "category_slug": "europe",
+                "category_image": "http:\/\/app.javatraveller.com\/uploads\/categories\/1598146510-a9uPWhBCklYx.png",
+                "childs": []
+            }, {
+                "id": 6,
+                "category_name": "America",
+                "category_slug": "america",
+                "category_image": "http:\/\/app.javatraveller.com\/uploads\/categories\/1598146511-8P5yG3UXiNU5.png",
+                "childs": []
+            }, {
+                "id": 7,
+                "category_name": "Africa",
+                "category_slug": "africa",
+                "category_image": "http:\/\/app.javatraveller.com\/uploads\/categories\/1598146512-WEcGe87vETrW.png",
+                "childs": []
+            }, {
+                "id": 8,
+                "category_name": "Australia",
+                "category_slug": "australia",
+                "category_image": "http:\/\/app.javatraveller.com\/uploads\/categories\/1598146513-hO429aN4ZWNZ.png",
+                "childs": []
+            }]
+        }, {
+            "id": 3,
+            "category_name": "Domestic",
+            "category_slug": "domestic",
+            "category_image": "http:\/\/app.javatraveller.com\/uploads\/categories\/1598146508-MNy4AM8aD6TF.png",
+            "childs": [{
+                "id": 9,
+                "category_name": "Jawa",
+                "category_slug": "jawa",
+                "category_image": "http:\/\/app.javatraveller.com\/uploads\/categories\/1598146514-XUfJSBt9dK4A.png",
+                "childs": []
+            }, {
+                "id": 10,
+                "category_name": "Bali",
+                "category_slug": "bali",
+                "category_image": "http:\/\/app.javatraveller.com\/uploads\/categories\/1598146515-AkVzVnDCRyMI.png",
+                "childs": []
+            }, {
+                "id": 11,
+                "category_name": "Papua",
+                "category_slug": "papua",
+                "category_image": "http:\/\/app.javatraveller.com\/uploads\/categories\/1598146517-OgegeaNf3Vce.png",
+                "childs": []
+            }, {
+                "id": 12,
+                "category_name": "Nusa Tenggara",
+                "category_slug": "nusa-tenggara",
+                "category_image": "http:\/\/app.javatraveller.com\/uploads\/categories\/1598146518-9ndnvlIAQ46w.png",
+                "childs": []
+            }, {
+                "id": 13,
+                "category_name": "Sumatera",
+                "category_slug": "sumatera",
+                "category_image": "http:\/\/app.javatraveller.com\/uploads\/categories\/1598146519-SqOAuNRyVJgJ.png",
+                "childs": []
+            }]
+        }]
+    }, {
+        "id": 14,
+        "category_name": "Cruise",
+        "category_slug": "cruise",
+        "childs": [{
+            "id": 15,
+            "category_name": "Royal Carribean",
+            "category_slug": "royal-carribean",
+            "category_image": "http:\/\/app.javatraveller.com\/uploads\/categories\/1598146520-2DWaWiag86Lt.png",
+            "childs": []
+        }, {
+            "id": 16,
+            "category_name": "Star Cruise",
+            "category_slug": "star-cruise",
+            "category_image": "http:\/\/app.javatraveller.com\/uploads\/categories\/1598146521-YoFI116WVOSa.png",
+            "childs": []
+        }, {
+            "id": 17,
+            "category_name": "Celebrity",
+            "category_slug": "celebrity",
+            "category_image": "http:\/\/app.javatraveller.com\/uploads\/categories\/1598146523-HEIHEgqOqKnS.png",
+            "childs": []
+        }]
+    }, {
+        "id": 18,
+        "category_name": "Honeyoon",
+        "category_slug": "honeymoon",
+        "childs": []
+    }, {
+        "id": 19,
+        "category_name": "Pilgrimage",
+        "category_slug": "pilgrimage",
+        "childs": []
+    }, {
+        "id": 20,
+        "category_name": "Tour Muslim",
+        "category_slug": "tour-muslim",
+        "childs": []
+    }]
+}

@@ -1,0 +1,2 @@
+02 09 2020 10:23:am  cURL error 6: Could not resolve host: app.javatravellerf.com
+02 09 2020 10:27:am  cURL error 6: Could not resolve host: app.javatravelledsdsdr.com
