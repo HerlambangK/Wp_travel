@@ -1,2 +1,8 @@
 02 09 2020 10:23:am  cURL error 6: Could not resolve host: app.javatravellerf.com
 02 09 2020 10:27:am  cURL error 6: Could not resolve host: app.javatravelledsdsdr.com
+03 09 2020 6:06:am  cURL error 28: Connection timed out after 5003 milliseconds
+03 09 2020 6:07:am  cURL error 28: Connection timed out after 5004 milliseconds
+03 09 2020 6:10:am  cURL error 28: Connection timed out after 5015 milliseconds
+03 09 2020 6:11:am  cURL error 28: Connection timed out after 5006 milliseconds
+03 09 2020 6:11:am  cURL error 28: Connection timed out after 5011 milliseconds
+03 09 2020 6:14:am  cURL error 28: Connection timed out after 5011 milliseconds
